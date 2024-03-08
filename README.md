@@ -1,4 +1,4 @@
-- 👋 I'm a polyglot developer who thrives in startup environments
+- 👋 I'm a polyglot developer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/inder-dhir-862a7077/)
 
 <!--
