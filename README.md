@@ -1,5 +1,4 @@
-- 👋 I'm a polyglot developer
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/inder-dhir-862a7077/)
+I'm a polyglot developer [LinkedIn](https://www.linkedin.com/in/inder-dhir-862a7077/)
 
 <!--
 **inderdhir/inderdhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
